@@ -20,8 +20,12 @@
 </div>
 <h3 align="center"> Connect with me </h3>
 <div align="center">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg">
+  <a href="https://www.linkedin.com/in/daniel-otero-60851421a/">
+    <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg">
+  </a>
+  <a href="https://www.instagram.com/danielotero_ch/">
+    <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg">
+  </a>
 </div>
 
 <!--
