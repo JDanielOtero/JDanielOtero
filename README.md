@@ -1,7 +1,8 @@
 <h2> Hi 👋 </h2>
-<div align="center"> </div>
-<h3 align="center"> Tools </h3>
-<div align="center"> 
+<div>My name is Daniel Otero, I'm Phisics Graduate at the UNMSM. 
+and  back-end developer 💻. Currently learning about data Science  🤖 and statistics 📈 </div>
+<h3> Tools </h3>
+<div> 
   <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -13,8 +14,8 @@
   <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
-<h3 align="center"> Studyng </h3>
-<div align="center">
+<h3> Studyng </h3>
+<div>
   <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
@@ -27,18 +28,3 @@
     <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg">
   </a>
 </div>
-
-<!--
-**JDanielOtero/JDanielOtero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
