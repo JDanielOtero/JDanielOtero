@@ -1,5 +1,5 @@
 <h2> Hi 👋 </h2>
-<div>My name is Daniel Otero, I'm Phisics graduate and  back-end developer 💻. Currently learning about data Science  🤖 and statistics 📈 </div>
+<div>My name is Daniel Otero, I'm Phisics graduate and  back-end developer 💻. Currently learning about data Science  🤖 , statistics 📈 and mobile programming. </div>
 <h3> Tools </h3>
 <div> 
   <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
