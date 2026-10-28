@@ -1,29 +1,28 @@
-<h2> Hi 👋 </h2>
-<div>My name is Daniel Otero, I'm Phisics graduate and  back-end developer 💻. Currently learning about data Science  🤖 , statistics 📈 and mobile programming. </div>
-<h3> Tools </h3>
-<div> 
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
-<h3> Studyng </h3>
-<div>
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-</div>
-<h3 align="center"> Connect with me </h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/daniel-otero-60851421a/">
-    <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg">
-  </a>
-  <a href="https://www.instagram.com/danielotero_ch/">
-    <img align="center" alt="Rafa-Js" height="auto" width="40" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg">
-  </a>
+
+# Daniel Otero
+
+Back-end developer (PHP/Laravel) cursando Máster en Ciencia de Datos — Lima, Perú
+
+</div>
+
+**Ahora mismo**
+- Máster en Ciencia de Datos (UOC) — bases de datos analíticas, web scraping, estadística
+- Desarrollo back-end con PHP/Laravel
+
+**Stack**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JDanielOtero&show_icons=true&hide_title=true&hide_border=true&theme=default)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-otero-60851421a/)
+
 </div>
