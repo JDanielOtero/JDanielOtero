@@ -25,8 +25,6 @@ Full Stack Developer (Laravel · Vue · Docker) cursando Máster en Ciencia de D
 
 <div align="center">
 
-![GitHub stats](https://gh-readme-stats.vercel.app/api?username=JDanielOtero&show_icons=true&hide_title=true&hide_border=true&theme=default)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-otero-60851421a/)
 
 </div>
